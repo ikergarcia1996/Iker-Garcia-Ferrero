@@ -1,7 +1,7 @@
 Facultad de Informática de San Sebastián UPV/EHU
 PHD Student in Natural Language Processing
 
-## Papers
+## Publications
 ### A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings
 Iker García, Rodrigo Agerri, German Rigau
 https://arxiv.org/abs/2001.06381
