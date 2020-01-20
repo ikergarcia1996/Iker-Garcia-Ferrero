@@ -4,9 +4,7 @@ PHD Student in Natural Language Processing
 ## Papers
 ### A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings
 Iker García, Rodrigo Agerri, German Rigau
-![https://arxiv.org/abs/2001.06381
-](https://arxiv.org/abs/2001.06381
-)
+https://arxiv.org/abs/2001.06381
 
 ```
 @misc{garca2020common,
@@ -19,5 +17,9 @@ Iker García, Rodrigo Agerri, German Rigau
 }
 ```
 
+##Profiles
+[*] Github: https://github.com/ikergarcia1996
+[*] Linkedin: https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/
+
 ## Contact information
-mail: igarcia945@ikasle.ehu.eus
+Mail: igarcia945@ikasle.ehu.eus
