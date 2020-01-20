@@ -18,8 +18,8 @@ https://arxiv.org/abs/2001.06381
 ```
 
 ##Profiles
-[*] Github: https://github.com/ikergarcia1996
-[*] Linkedin: https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/
+* Github: https://github.com/ikergarcia1996
+* Linkedin: https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/
 
 ## Contact information
 Mail: igarcia945@ikasle.ehu.eus
