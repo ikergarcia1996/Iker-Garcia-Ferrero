@@ -12,21 +12,21 @@ HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 ## Publications
 
 ### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of EMNLP 2021)
-Iker García, Rodrigo Agerri, German Rigau  
+Iker García-Ferrero , Rodrigo Agerri, German Rigau  
 
 
 ### A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings (CoRR 2020)
-Iker García, Rodrigo Agerri, German Rigau  
+Iker García-Ferrero , Rodrigo Agerri, German Rigau  
 https://arxiv.org/abs/2001.06381
 
 ```
-@misc{garca2020common,
-    title={A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings},
-    author={Iker García and Rodrigo Agerri and German Rigau},
-    year={2020},
-    eprint={2001.06381},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@article{garcia2020common,
+ author = {García-Ferrero, Iker and Agerri, Rodrigo and Rigau, German},
+ journal = {ArXiv preprint},
+ title = {A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings},
+ url = {https://arxiv.org/abs/2001.06381},
+ volume = {abs/2001.06381},
+ year = {2020}
 }
 ```
 
