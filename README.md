@@ -5,7 +5,7 @@ HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 * Twitter: https://twitter.com/iker_garciaf
 * Github: https://github.com/ikergarcia1996
 * Linkedin: https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/
-* Google Scholar: https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl=es
+* Google Scholar: https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl
 * Semantic Scholar: https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884
 * ORCID: https://orcid.org/0000-0001-9612-7134
 
