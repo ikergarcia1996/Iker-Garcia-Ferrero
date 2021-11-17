@@ -68,7 +68,7 @@ https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_
 
 - Instructor in the Introduction to Language Technology Applications course: (1st edition, 2021) http://www.ixa.eus/iltapp/
 - Instructor in the Introduction to Language Technology Applications course: (2nd edition, 2022) http://www.ixa.eus/iltapp/
-- Talk at LITHME Training school 2021: Introducing HiTZ Group
+- Talk at LITHME Training school 2021: Introducing HiTZ Group https://lithme.eu/training-school/
 
 
 ## Contact information
