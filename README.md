@@ -9,15 +9,33 @@ HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 * Semantic Scholar: https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884
 * ORCID: https://orcid.org/0000-0001-9612-7134
 
-## Publications
+## Publications in English
 
 ### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of EMNLP 2021)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
+https://aclanthology.org/2021.findings-emnlp.333/
+https://github.com/ikergarcia1996/MetaVec
 
+```
+@inproceedings{garcia-ferrero-etal-2021-benchmarking-meta,
+    title = "Benchmarking Meta-embeddings: What Works and What Does Not",
+    author = "Garc{\'\i}a-Ferrero, Iker  and
+      Agerri, Rodrigo  and
+      Rigau, German",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.333",
+    pages = "3957--3972",
+}
+```
 
 ### A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings (CoRR 2020)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
 https://arxiv.org/abs/2001.06381
+https://github.com/ikergarcia1996/MVM-Embeddings
 
 ```
 @article{garcia2020common,
@@ -30,12 +48,13 @@ https://arxiv.org/abs/2001.06381
 }
 ```
 
-## Publications in other languages
+## Publications in Basque
 
 ### Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian (IkerGazte 2021)
+- Prize for the most relevant research for the development of the Basque Country (IkerGazte 2021)
 Joseba Fernandez de Landa, Iker García-Ferrero, Ander Salaberria, Jon Ander Campos  
 http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf
-
+https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021
 
 ### Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua ((IkerGazte 2021))
 Ander Salaberria, Jon Ander Campos, Iker García-Ferrero, Joseba Fernandez de Landa  
