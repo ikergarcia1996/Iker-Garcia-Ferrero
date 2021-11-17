@@ -51,7 +51,6 @@ https://github.com/ikergarcia1996/MVM-Embeddings
 ## Publications in Basque
 
 ### Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian (IkerGazte 2021)
-- Prize for the most relevant research for the development of the Basque Country (IkerGazte 2021)
 Joseba Fernandez de Landa, Iker García-Ferrero, Ander Salaberria, Jon Ander Campos  
 http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf
 https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021
@@ -59,6 +58,12 @@ https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021
 ### Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua ((IkerGazte 2021))
 Ander Salaberria, Jon Ander Campos, Iker García-Ferrero, Joseba Fernandez de Landa  
 https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf
+
+
+##Recognitions and awards
+- Prize for the most relevant research for the development of the Basque Country (IkerGazte 2021) by Udalbiltza: The paper "Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian" was awarded the prize for the most relevant research for the development of the Basque Country at ikerGazte 2021.
+- Basque Government PhD grant
+
 
 
 ## Contact information
