@@ -1,5 +1,9 @@
-PHD Student in Natural Language Processing
-HiTZ Center - Ixa, University of the Basque Country UPV/EHU
+<table>
+  <tr>
+    <td> PHD Student in Natural Language Processing.<br> HiTZ Basque Center for Language Technologies - Ixa NLP Group <br> University of the Basque Country UPV/EHU</td>
+    <td><img src="ProfileImage.jpeg"> </td>
+  </tr>
+ </table>
 
 ## Profiles
 * Twitter: https://twitter.com/iker_garciaf
