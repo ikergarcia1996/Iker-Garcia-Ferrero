@@ -13,7 +13,7 @@ HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 
 ### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of EMNLP 2021)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
-https://aclanthology.org/2021.findings-emnlp.333/
+https://aclanthology.org/2021.findings-emnlp.333/  
 https://github.com/ikergarcia1996/MetaVec
 
 ```
@@ -34,7 +34,7 @@ https://github.com/ikergarcia1996/MetaVec
 
 ### A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings (CoRR 2020)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
-https://arxiv.org/abs/2001.06381
+https://arxiv.org/abs/2001.06381  
 https://github.com/ikergarcia1996/MVM-Embeddings
 
 ```
@@ -60,10 +60,15 @@ Ander Salaberria, Jon Ander Campos, Iker García-Ferrero, Joseba Fernandez de La
 https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf
 
 
-##Recognitions and awards
+## Recognitions and awards
 - Prize for the most relevant research for the development of the Basque Country (IkerGazte 2021) by Udalbiltza: The paper "Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian" was awarded the prize for the most relevant research for the development of the Basque Country at ikerGazte 2021.
 - Basque Government PhD grant
 
+## Academic activity
+
+- Instructor in the Introduction to Language Technology Applications course: (1st edition, 2021) http://www.ixa.eus/iltapp/
+- Instructor in the Introduction to Language Technology Applications course: (2nd edition, 2022) http://www.ixa.eus/iltapp/
+- Talk at LITHME Training school 2021: Introducing HiTZ Group
 
 
 ## Contact information
