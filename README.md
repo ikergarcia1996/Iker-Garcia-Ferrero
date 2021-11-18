@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td> PHD Student in Natural Language Processing.<br> HiTZ Basque Center for Language Technologies - Ixa NLP Group <br> University of the Basque Country UPV/EHU</td>
+    <td> PHD Student in Natural Language Processing.<br> HiTZ Basque Center for Language Technologies <br> Ixa NLP Group <br> University of the Basque Country UPV/EHU</td>
     <td><img src="ProfileImage.jpeg"> </td>
   </tr>
  </table>
@@ -15,7 +15,7 @@
 
 ## Publications in English
 
-### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of EMNLP 2021)
+### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of the EMNLP 2021)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
 https://aclanthology.org/2021.findings-emnlp.333/  
 https://github.com/ikergarcia1996/MetaVec
@@ -59,7 +59,7 @@ Joseba Fernandez de Landa, Iker García-Ferrero, Ander Salaberria, Jon Ander Cam
 http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf
 https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021
 
-### Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua ((IkerGazte 2021))
+### Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua (IkerGazte 2021)
 Ander Salaberria, Jon Ander Campos, Iker García-Ferrero, Joseba Fernandez de Landa  
 https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf
 
