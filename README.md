@@ -7,19 +7,18 @@
 
 ## Profiles
 * Twitter: [https://twitter.com/iker_garciaf](https://twitter.com/iker_garciaf)
-* Github: https://github.com/ikergarcia1996
-* Linkedin: https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/
-* Google Scholar: https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl
-* Semantic Scholar: https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884
-* ORCID: https://orcid.org/0000-0001-9612-7134
+* Github: [https://github.com/ikergarcia1996](https://github.com/ikergarcia1996)
+* Linkedin: [https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/](https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/)
+* Google Scholar: [https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl](https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl)
+* Semantic Scholar: [https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884](https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884)
+* ORCID: [https://orcid.org/0000-0001-9612-7134](https://orcid.org/0000-0001-9612-7134)
 
 ## Publications in English
 
 ### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of the EMNLP 2021)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
-https://aclanthology.org/2021.findings-emnlp.333/  
-https://github.com/ikergarcia1996/MetaVec
-
+[https://aclanthology.org/2021.findings-emnlp.333](https://aclanthology.org/2021.findings-emnlp.333)   
+[https://github.com/ikergarcia1996/MetaVec](https://github.com/ikergarcia1996/MetaVec)
 ```
 @inproceedings{garcia-ferrero-etal-2021-benchmarking-meta,
     title = "Benchmarking Meta-embeddings: What Works and What Does Not",
@@ -38,8 +37,8 @@ https://github.com/ikergarcia1996/MetaVec
 
 ### A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings (CoRR 2020)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
-https://arxiv.org/abs/2001.06381  
-https://github.com/ikergarcia1996/MVM-Embeddings
+[https://arxiv.org/abs/2001.06381](https://arxiv.org/abs/2001.06381)   
+[https://github.com/ikergarcia1996/MVM-Embeddings](https://github.com/ikergarcia1996/MVM-Embeddings)
 
 ```
 @article{garcia2020common,
@@ -56,12 +55,12 @@ https://github.com/ikergarcia1996/MVM-Embeddings
 
 ### Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian (IkerGazte 2021)
 Joseba Fernandez de Landa, Iker García-Ferrero, Ander Salaberria, Jon Ander Campos  
-http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf
-https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021
+[http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf](http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf)
+[https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021](https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021)
 
 ### Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua (IkerGazte 2021)
 Ander Salaberria, Jon Ander Campos, Iker García-Ferrero, Joseba Fernandez de Landa  
-https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf
+[https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf](https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf)
 
 
 ## Recognitions and awards
@@ -70,9 +69,9 @@ https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_
 
 ## Academic activity
 
-- Instructor in the Introduction to Language Technology Applications course: (1st edition, 2021) http://www.ixa.eus/iltapp/
-- Instructor in the Introduction to Language Technology Applications course: (2nd edition, 2022) http://www.ixa.eus/iltapp/
-- Talk at LITHME Training school 2021: Introducing HiTZ Group https://lithme.eu/training-school/
+- Instructor in the Introduction to Language Technology Applications course: (1st edition, 2021) [http://www.ixa.eus/iltapp/](http://www.ixa.eus/iltapp/)
+- Instructor in the Introduction to Language Technology Applications course: (2nd edition, 2022) [http://www.ixa.eus/iltapp/](http://www.ixa.eus/iltapp/)
+- Talk at LITHME Training school 2021: Introducing HiTZ Group [https://lithme.eu/training-school/](https://lithme.eu/training-school/)
 
 
 ## Contact information
