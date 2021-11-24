@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td> PHD Student in Natural Language Processing.<br> HiTZ Basque Center for Language Technologies <br> Ixa NLP Group <br> University of the Basque Country UPV/EHU</td>
+    <td> PHD Student in Natural Language Processing.<br> <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a><br> <a href="http://ixa.si.ehu.es/">Ixa NLP Group</a>  <br> <a href="www.ehu.eus">University of the Basque Country UPV/EHU</a> <br> <br> <br> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/location.png" width="10" height="15" alt="Location"> Donostia-San Sebastián <br> <br> <br> <a href="http://ixa.si.ehu.es/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/ixa.png" width="50" height="50" alt="Ixa NLP Group"> </a>  <a href="http://www.hitz.eus/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/Hitz.png" width="300" height="50" alt="HiTZ Basque Center for Language Technologies">  </a> </td>
     <td><img src="ProfileImage.jpeg"> </td>
   </tr>
  </table>
@@ -57,14 +57,37 @@ Iker García-Ferrero , Rodrigo Agerri, German Rigau
 Joseba Fernandez de Landa, Iker García-Ferrero, Ander Salaberria, Jon Ander Campos  
 [http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf](http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf)
 [https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021](https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021)
+```
+@inproceedings{ikergazte_twitter_covid, 
+doi = {10.26876/ikergazte.iv.03.17}, 
+url = {https://doi.org/10.26876%2Fikergazte.iv.03.17}, 
+year = 2021, month = {jun},
+publisher = {{UEU} arg}, 
+author = {Joseba Fernandez de Landa Aguirre and Iker García-Ferrero and Ander Salaberria Saizar and Jon Ander Campos Tejedor}, 
+title = {Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian}, 
+booktitle = {{IV}. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura}
+}
+```
 
 ### Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua (IkerGazte 2021)
 Ander Salaberria, Jon Ander Campos, Iker García-Ferrero, Joseba Fernandez de Landa  
 [https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf](https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf)
+```
+@inproceedings{ikergazte_itzulpen_genero, 
+doi = {10.26876/ikergazte.iv.03.19}, 
+url = {https://doi.org/10.26876%2Fikergazte.iv.03.19}, 
+year = 2021, 
+month = {jun}, 
+publisher = {{UEU} arg}, 
+author = {Ander Salaberria Saizar and Jon Ander Campos Tejedor and Iker García-Ferrero and Joseba Fernandez de Landa Aguirre}, 
+title = {Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua}, 
+booktitle = {{IV}. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura}
+}
+```
 
 
 ## Recognitions and awards
-- Prize for the most relevant research for the development of the Basque Country (IkerGazte 2021) by Udalbiltza: The paper "Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian" was awarded the prize for the most relevant research for the development of the Basque Country at ikerGazte 2021.
+- [Prize for the most relevant research for the development of the Basque Country (IkerGazte 2021) by Udalbiltza](https://www.ueu.eus/ikergazte/blog/2021/06/14/baditugu-ikergazte2021-irabazleak/): The paper "Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian" was awarded the prize for the most relevant research for the development of the Basque Country at ikerGazte 2021.
 - Basque Government PhD grant
 
 ## Academic activity
