@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td> PHD Student in Natural Language Processing.<br> <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a><br> <a href="http://ixa.si.ehu.es/">Ixa NLP Group</a>  <br> <a href="www.ehu.eus">University of the Basque Country UPV/EHU</a> <br> <br> <br> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/location.png" width="10" height="15" alt="Location"> Donostia-San Sebastián <br> <br> <br> <a href="http://ixa.si.ehu.es/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/ixa.png" width="50" height="50" alt="Ixa NLP Group"> </a>  <a href="http://www.hitz.eus/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/Hitz.png" width="300" height="50" alt="HiTZ Basque Center for Language Technologies">  </a> </td>
+    <td> PHD Student in Natural Language Processing.<br> <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a><br> <a href="http://ixa.si.ehu.es/">Ixa NLP Group</a>  <br> <a href="www.ehu.eus">University of the Basque Country UPV/EHU</a> <br> <br> <br> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/location.png" width="18" height="20" alt="Location"> <a href="https://goo.gl/maps/xFPuPztQoACVJwaJ9">Donostia-San Sebastián</a>  <br> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/mail.png" width="18" height="18" alt="Location"> <a href="mailto:iker.garciaf@ehu.eus">iker.garciaf@ehu.eus</a>  <br> <br> <br> <a href="http://ixa.si.ehu.es/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/ixa.png" width="50" height="50" alt="Ixa NLP Group"> </a>  <a href="http://www.hitz.eus/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/Hitz.png" width="300" height="50" alt="HiTZ Basque Center for Language Technologies">  </a> </td>
     <td><img src="ProfileImage.jpeg"> </td>
   </tr>
  </table>
@@ -62,7 +62,7 @@ Joseba Fernandez de Landa, Iker García-Ferrero, Ander Salaberria, Jon Ander Cam
 doi = {10.26876/ikergazte.iv.03.17}, 
 url = {https://doi.org/10.26876%2Fikergazte.iv.03.17}, 
 year = 2021, month = {jun},
-publisher = {{UEU} arg}, 
+publisher = {Udako Euskal Unibertsitatea}, 
 author = {Joseba Fernandez de Landa Aguirre and Iker García-Ferrero and Ander Salaberria Saizar and Jon Ander Campos Tejedor}, 
 title = {Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian}, 
 booktitle = {{IV}. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura}
@@ -78,7 +78,7 @@ doi = {10.26876/ikergazte.iv.03.19},
 url = {https://doi.org/10.26876%2Fikergazte.iv.03.19}, 
 year = 2021, 
 month = {jun}, 
-publisher = {{UEU} arg}, 
+publisher = {Udako Euskal Unibertsitatea}, 
 author = {Ander Salaberria Saizar and Jon Ander Campos Tejedor and Iker García-Ferrero and Joseba Fernandez de Landa Aguirre}, 
 title = {Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua}, 
 booktitle = {{IV}. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura}
@@ -96,6 +96,3 @@ booktitle = {{IV}. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu
 - Instructor in the Introduction to Language Technology Applications course: (2nd edition, 2022) [http://www.ixa.eus/iltapp/](http://www.ixa.eus/iltapp/)
 - Talk at LITHME Training school 2021: Introducing HiTZ Group [https://lithme.eu/training-school/](https://lithme.eu/training-school/)
 
-
-## Contact information
-Mail: iker.garciaf@ehu.eus
