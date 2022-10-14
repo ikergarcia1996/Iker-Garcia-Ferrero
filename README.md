@@ -15,6 +15,10 @@
 
 ## Publications in English
 
+### Model Transfer or Data Transfer? Cross-Lingual Sequence Labelling in Zero-Resource Settings (Findings of the EMNLP 2022)
+Iker García-Ferrero , Rodrigo Agerri, German Rigau  
+Accepted - Camera ready in progress
+
 ### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of the EMNLP 2021)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
 [https://aclanthology.org/2021.findings-emnlp.333](https://aclanthology.org/2021.findings-emnlp.333)   
