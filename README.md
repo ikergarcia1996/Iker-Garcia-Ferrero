@@ -15,9 +15,33 @@
 
 ## Publications in English
 
+### T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks
+Iker García-Ferrero , Rodrigo Agerri, German Rigau  
+[https://arxiv.org/abs/2212.10548](https://arxiv.org/abs/2212.10548)
+[https://github.com/ikergarcia1996/T-Projection](https://github.com/ikergarcia1996/T-Projection)
+```
+@article{GarciaFerrero2022ModelAD,
+  title={T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks},
+  author={Iker Garc'ia-Ferrero and Rodrigo Agerri and German Rigau},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2212.10548}
+}
+```
+
 ### Model Transfer or Data Transfer? Cross-Lingual Sequence Labelling in Zero-Resource Settings (Findings of the EMNLP 2022)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
-Accepted - Camera ready in progress
+[https://arxiv.org/abs/2210.12623](https://arxiv.org/abs/2210.12623)
+[https://github.com/ikergarcia1996/Easy-Label-Projection](https://github.com/ikergarcia1996/Easy-Label-Projection)
+```
+@article{GarciaFerrero2022ModelAD,
+  title={Model and Data Transfer for Cross-Lingual Sequence Labelling in Zero-Resource Settings},
+  author={Iker Garc'ia-Ferrero and Rodrigo Agerri and German Rigau},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2210.12623}
+}
+```
 
 ### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of the EMNLP 2021)
 Iker García-Ferrero , Rodrigo Agerri, German Rigau  
