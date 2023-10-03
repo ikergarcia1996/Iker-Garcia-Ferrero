@@ -107,10 +107,8 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-   background-image: url("../images/Banner.jpg");
+  background-image: url("../images/Banner.png");
   background-size: 100% auto;
 
   @include large {
