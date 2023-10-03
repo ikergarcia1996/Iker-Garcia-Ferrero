@@ -19,7 +19,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <a href="https://ikergarcia1996.github.io/Iker-Garcia-Ferrero/" class="btn">About Me</a>
       {% for page in site.pages %}
-        <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
+        <a href= {{ page.filename }} class="btn">{{ page.button_title }}</a>
       {% endfor %}
     </header>
     <main id="content" class="main-content" role="main">
