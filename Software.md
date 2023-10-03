@@ -18,6 +18,17 @@ filename: software
 </tr>
 </table>
 
+<table >
+  <tr>
+    <td style="width:30%"> <img src="https://img.shields.io/badge/-Contaminated%20-red" width="200" alt="Location">  </td>
+    <td style="width:70%"><b>LM Contamination Index</b> <br> The LM Contamination Index is a manually created database of contamination evidences for LMs. Please <br>
+    <ul>
+      <li> <a href="https://hitz-zentroa.github.io/lm-contamination/">Web Page</a></li>
+</ul>
+</td> 
+</tr>
+</table>
+
 
 <table >
   <tr>
