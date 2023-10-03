@@ -1,3 +1,9 @@
+---
+title: Publications
+layout: default
+filename: publications
+--- 
+
 # Publications
 
 ### IXA/Cogcomp at SemEval-2023 Task 2: Context-enriched Multilingual Named Entity Recognition using Knowledge Bases
