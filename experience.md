@@ -19,6 +19,8 @@ filename: experience
   </tr>
  </table>
 
+<br>
+
 <table >
   <tr>
     <td style="width:13%"> <img src="icons/hitz_zentroa_logo.jpeg" width="90" alt="Location">  </td>
@@ -31,6 +33,8 @@ filename: experience
   </tr>
  </table>
 
+<br>
+
 <table >
   <tr>
     <td style="width:13%"> <img src="icons/amazon_logo.jpeg" width="90" alt="Location">  </td>
@@ -42,6 +46,7 @@ filename: experience
   </tr>
  </table>
 
+<br>
 
 <table >
   <tr>
@@ -53,6 +58,8 @@ filename: experience
 </td> 
   </tr>
  </table>
+
+<br>
 
 <table >
   <tr>
