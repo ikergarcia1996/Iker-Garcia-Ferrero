@@ -1,7 +1,7 @@
 ---
-title: ABOUT PAGE
+title: Publications
 layout: template
-filename: about.md
+filename: Publications.md
 --- 
 
 # Publications
