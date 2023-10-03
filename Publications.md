@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: template
+layout: default
 filename: Publications.md
 --- 
 
