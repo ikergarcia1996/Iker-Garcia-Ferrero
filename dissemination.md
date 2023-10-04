@@ -20,6 +20,8 @@ filename: dissemination
 </tr>
 </table>
 
+<br>
+
 <table >
   <tr>
     <td style="width:30%"> <img src="http://www.ixa.eus/iltapp/images/hap_lap_bw.png" width="200" alt="Location">  </td>
