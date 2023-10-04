@@ -19,7 +19,6 @@ filename: experience
   </tr>
  </table>
 
-<br>
 
 <table >
   <tr>
@@ -33,7 +32,6 @@ filename: experience
   </tr>
  </table>
 
-<br>
 
 <table >
   <tr>
@@ -46,7 +44,6 @@ filename: experience
   </tr>
  </table>
 
-<br>
 
 <table >
   <tr>
@@ -59,7 +56,6 @@ filename: experience
   </tr>
  </table>
 
-<br>
 
 <table >
   <tr>
