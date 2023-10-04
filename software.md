@@ -18,6 +18,8 @@ filename: software
 </tr>
 </table>
 
+<br> 
+
 <table >
   <tr>
     <td style="width:30%"> <img src="https://img.shields.io/badge/-Contaminated%20-red" width="200" alt="Location">  </td>
@@ -29,6 +31,7 @@ filename: software
 </tr>
 </table>
 
+<br> 
 
 <table >
   <tr>
@@ -41,6 +44,8 @@ filename: software
 </tr>
 </table>
 
+<br> 
+
 <table >
   <tr>
     <td style="width:30%"> <img src="https://github.com/ikergarcia1996/Easy-Label-Projection/raw/main/github_images/tittle.png" width="300" alt="Location">  </td>
@@ -51,6 +56,8 @@ filename: software
 </td> 
 </tr>
 </table>
+
+<br> 
 
 <table >
   <tr>
@@ -64,6 +71,7 @@ A NER frameworks that (1) identifies possible entity candidates by analyzing the
 </tr>
 </table>
 
+<br> 
 
 <table >
   <tr>
@@ -76,6 +84,7 @@ A NER frameworks that (1) identifies possible entity candidates by analyzing the
 </tr>
 </table>
 
+<br> 
 
 <table >
   <tr>
