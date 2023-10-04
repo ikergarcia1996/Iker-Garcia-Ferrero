@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td style="width:50%"> PHD Student in Natural Language Processing<br> <br> <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a><br> <a href="http://ixa.si.ehu.es/">Ixa NLP Group</a>  <br> <a href="https://www.ehu.eus/en/en-home">University of the Basque Country UPV/EHU</a> <br> <br> <a href="https://goo.gl/maps/xFPuPztQoACVJwaJ9"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/location.png" width="18" height="20" alt="Location"> Donostia-San Sebastián</a>  <br> <a href="mailto:iker.garciaf@ehu.eus"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/mail.png" width="18" height="18" alt="Location">iker.garciaf@ehu.eus</a>  <br>  <br> <a href="http://ixa.si.ehu.es/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/ixa.png" width="50" height="50" alt="Ixa NLP Group"> </a>  <a href="http://www.hitz.eus/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/Hitz.png" width="300" height="50" alt="HiTZ Basque Center for Language Technologies">  </a> </td>
-    <td style="width:50%"><img src="images/Iker.jpeg" align="center" width="100%" "> </td>
+    <td style="width:50%"><img src="images/Iker.jpeg" align="center" width="100%"> </td>
   </tr>
  </table>
 
