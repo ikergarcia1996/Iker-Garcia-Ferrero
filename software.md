@@ -18,6 +18,8 @@ filename: software
 </tr>
 </table>
 
+<br> 
+
 <table >
   <tr>
     <td style="width:30%"> <img src="https://github.com/ikergarcia1996/Sequence-Labeling-LLMs/raw/main/resources/ConstrainedDecoding.gif" width="200" alt="Location">  </td>
