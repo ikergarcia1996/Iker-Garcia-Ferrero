@@ -9,6 +9,17 @@ filename: software
 
 <table >
   <tr>
+    <td style="width:30%"> <img src="https://github.com/hitz-zentroa/GoLLIE/raw/main/assets/GoLLIE.png" width="200" alt="Location">  </td>
+    <td style="width:70%"><b>GoLLIE</b> <br> We present GoLLIE, a Large Language Model trained to follow annotation guidelines. GoLLIE outperforms previous approaches on zero-shot Information Extraction and allows the user to perform inferences with annotation schemas defined on the fly. Different from previous approaches, GoLLIE is able to follow detailed definitions and does not only rely on the knowledge already encoded in the LLM.<br>
+    <ul>
+      <li> <a href="https://github.com/hitz-zentroa/GoLLIE">GitHub Repository</a></li>
+</ul>
+</td> 
+</tr>
+</table>
+
+<table >
+  <tr>
     <td style="width:30%"> <img src="https://github.com/ikergarcia1996/Sequence-Labeling-LLMs/raw/main/resources/ConstrainedDecoding.gif" width="200" alt="Location">  </td>
     <td style="width:70%"><b>Sequence Labeling with LLMs</b> <br> Sequence Labelling with LLMs is a library code for performing Sequence Labelling with Language Models (LLMs) as a Text2Text constrained generation task. The code is built on top of 🤗HuggingFace's Transformers and 🤗HuggingFace's Accelerate library.  <br>
     <ul>
