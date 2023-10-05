@@ -19,12 +19,12 @@
 <h2 style="text-align: center;">Social Profiles</h2>
 
 <p align="center">
-<a href="https://twitter.com/iker_garciaf"><img src="icons/X.png" width="120" alt="X"></a>
-<a href="https://github.com/ikergarcia1996"><img src="icons/github.png" width="120" alt="Github"></a>
-<a href="https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/?locale=en_US"><img src="icons/linkedin.png" width="120" alt="Linkedin"></a>
-<a href="https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl"><img src="icons/google-scholar.png" width="120" alt="Google-Scholar"></a>
-<a href="https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/145372488"><img src="icons/semantic-scholar.png" width="120" alt="Semantic-Scholar"></a>
-<a href="https://orcid.org/0000-0001-9612-7134"><img src="icons/orcid.png" width="120" alt="ORCID"></a>
+<a href="https://twitter.com/iker_garciaf"><img src="icons/X.png" width="60" alt="X"></a>
+<a href="https://github.com/ikergarcia1996"><img src="icons/github.png" width="60" alt="Github"></a>
+<a href="https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/?locale=en_US"><img src="icons/linkedin.png" width="60" alt="Linkedin"></a>
+<a href="https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl"><img src="icons/google-scholar.png" width="60" alt="Google-Scholar"></a>
+<a href="https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/145372488"><img src="icons/semantic-scholar.png" width="60" alt="Semantic-Scholar"></a>
+<a href="https://orcid.org/0000-0001-9612-7134"><img src="icons/orcid.png" width="60" alt="ORCID"></a>
 </p>
 
 
