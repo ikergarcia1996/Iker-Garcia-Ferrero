@@ -8,7 +8,7 @@ filename: publications
 # Publications
 
 ---
-### <h2><img src="https://github.com/hitz-zentroa/GoLLIE/blob/main/assets/GoLLIE.png?raw=true" width="25"> GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction
+### <img src="https://github.com/hitz-zentroa/GoLLIE/blob/main/assets/GoLLIE.png?raw=true" width="25"> GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction
 Oscar Sainz, <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau and Eneko Agirre  
 ArXiv 2023  
 📖[Paper](https://arxiv.org/abs/2310.03668) 📒[Code](https://github.com/hitz-zentroa/GoLLIE/)
