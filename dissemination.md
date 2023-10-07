@@ -10,7 +10,7 @@ filename: dissemination
 <table >
   <tr>
     <td style="width:30%"> <img src="icons/hardware360.jpeg" width="200" alt="Location">  </td>
-    <td style="width:70%"><b>Hardware 360º</b> <br> 2016 - 2013 <br> Youtube Channel about Computer Hardware with more than 220.000 subscribers from all over the world and 260.000 monthly views. I create videos about the latest industry news, educational videos and analyse hardware products among others.Youtube Channel about Computer Hardware with more than 220.000 subscribers from all over the world and 260.000 monthly views. I create videos about the latest industry news, educational videos and analyse hardware products among others. <br>
+    <td style="width:70%"><b>Hardware 360º</b> <br> 2016 - 2023 <br> Youtube Channel about Computer Hardware with more than 220.000 subscribers from all over the world and 260.000 monthly views. I create videos about the latest industry news, educational videos and analyse hardware products among others.Youtube Channel about Computer Hardware with more than 220.000 subscribers from all over the world and 260.000 monthly views. I create videos about the latest industry news, educational videos and analyse hardware products among others. <br>
     <ul>
         <li> <a href="https://www.youtube.com/@Hardware360grados/">youtube.com/@Hardware360grados</a> </li>
       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC40Ztmc_11leuUR-tHh_irQ"><br>
