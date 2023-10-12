@@ -15,6 +15,27 @@ ArXiv 2023
 
 ---
 
+### This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models
+<ins>Iker García-Ferrero</ins>, Begoña Altuna, Javier Alvez, Itziar Gonzalez-Dios, German Rigau  
+EMNLP 2023    
+📖[Paper]() 📒[Code]()
+
+---
+
+### T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks
+<ins>Iker García-Ferrero</ins> , Rodrigo Agerri, German Rigau  
+Findings of the EMNLP 2023  
+📖[Paper](https://arxiv.org/abs/2212.10548) 📒[Code](https://github.com/ikergarcia1996/T-Projection)  
+
+---
+
+### NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark
+Oscar Sainz, Jon Ander Campos, <ins>Iker García-Ferrero</ins> , Julen Etxaniz, Oier Lopez de Lacalle, Eneko Agirre  
+Findings of the EMNLP 2023    
+📖[Paper]() 📒[Code](https://hitz-zentroa.github.io/lm-contamination/)  
+
+---
+
 ### IXA/Cogcomp at SemEval-2023 Task 2: Context-enriched Multilingual Named Entity Recognition using Knowledge Bases
 <ins>Iker García-Ferrero</ins>, Jon Ander Campos, Oscar Sainz, Ander Salaberria, Dan Roth  
 SemEval 2023  
@@ -27,12 +48,6 @@ Rodrigo Agerri, Iñigo Alonso, Aitziber Atutxa, Ander Berrondo, Ainara Estarrona
 SEPLN 2023: 39th International Conference of the Spanish Society for Natural Language Processing  
 📖[Paper](https://arxiv.org/abs/2306.06029)
 
----
-
-### T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks
-<ins>Iker García-Ferrero</ins> , Rodrigo Agerri, German Rigau  
-ArXiv 2022  
-📖[Paper](https://arxiv.org/abs/2212.10548) 📒[Code](https://github.com/ikergarcia1996/T-Projection)  
 
 ---
 
