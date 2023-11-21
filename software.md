@@ -3,7 +3,7 @@ title: Iker García-Ferrero
 button_title: Software
 layout: default
 filename: software
---- 
+---
 
 # Software
 
@@ -19,6 +19,19 @@ filename: software
 </table>
 
 <br> 
+
+<table >
+  <tr>
+    <td style="width:30%"> <img src="https://github.com/ikergarcia1996/T-Projection/raw/main/images/demo.gif" width="200" alt="Location">  </td>
+    <td style="width:70%"><b>T-Projection</b> <br> T-Projection is a method to perform high-quality Annotation Projection of Sequence Labeling datasets. The code is built on top of 🤗HuggingFace's Transformers and 🤗HuggingFace's Accelerate library.  <br>
+    <ul>
+      <li> <a href="https://github.com/ikergarcia1996/T-Projection">GitHub Repository</a></li>
+</ul>
+</td> 
+</tr>
+</table>
+
+<br>
 
 <table >
   <tr>

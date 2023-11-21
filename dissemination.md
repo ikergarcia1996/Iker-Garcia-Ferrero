@@ -3,9 +3,24 @@ title: Iker García-Ferrero
 button_title: Scientific Dissemination
 layout: default
 filename: dissemination
---- 
+---
 
 # Scientific dissemination
+
+
+<table >
+  <tr>
+    <td style="width:30%"> <img src="https://avatars.githubusercontent.com/u/148342272" width="200" alt="Location">  </td>
+    <td style="width:70%"><b>The 1st Workshop on Data Contamination (CONDA)</b> <br> ACL 2024 <br> Evaluation data has been compromised!
+A workshop on detecting, preventing, and addressing data contamination and fairly evaluating LLMs. <br>
+    <ul>
+        <li> <a href="https://conda-workshop.github.io/">Workshop Webpage</a> </li>
+</ul>
+</td> 
+</tr>
+</table>
+
+<br>
 
 <table >
   <tr>

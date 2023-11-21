@@ -3,7 +3,7 @@ title: Iker García-Ferrero
 button_title: Publications
 layout: default
 filename: publications
---- 
+---
 
 # Publications
 
@@ -18,7 +18,7 @@ ArXiv 2023
 ### This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models
 <ins>Iker García-Ferrero</ins>, Begoña Altuna, Javier Alvez, Itziar Gonzalez-Dios, German Rigau  
 EMNLP 2023    
-📖[Paper]() 📒[Code]()
+📖[Paper](https://arxiv.org/abs/2310.15941) 📒[Code](https://github.com/hitz-zentroa/This-is-not-a-Dataset)
 
 ---
 
@@ -32,7 +32,7 @@ Findings of the EMNLP 2023
 ### NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark
 Oscar Sainz, Jon Ander Campos, <ins>Iker García-Ferrero</ins> , Julen Etxaniz, Oier Lopez de Lacalle, Eneko Agirre  
 Findings of the EMNLP 2023    
-📖[Paper]() 📒[Code](https://hitz-zentroa.github.io/lm-contamination/)  
+📖[Paper](https://arxiv.org/pdf/2310.18018v1.pdf) 📒[Code](https://hitz-zentroa.github.io/lm-contamination/)  
 
 ---
 
