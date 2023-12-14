@@ -11,7 +11,7 @@ filename: publications
 ### <img src="https://github.com/hitz-zentroa/GoLLIE/blob/main/assets/GoLLIE.png?raw=true" width="25"> GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction
 Oscar Sainz, <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau and Eneko Agirre  
 ArXiv 2023  
-📖[Paper](https://arxiv.org/abs/2310.03668) 📒[Code](https://github.com/hitz-zentroa/GoLLIE/)
+📖[Paper](https://aclanthology.org/2023.emnlp-main.531/) 📒[Code](https://github.com/hitz-zentroa/GoLLIE/)
 
 ---
 
@@ -25,14 +25,14 @@ EMNLP 2023
 ### T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks
 <ins>Iker García-Ferrero</ins> , Rodrigo Agerri, German Rigau  
 Findings of the EMNLP 2023  
-📖[Paper](https://arxiv.org/abs/2212.10548) 📒[Code](https://github.com/ikergarcia1996/T-Projection)  
+📖[Paper](https://aclanthology.org/2023.findings-emnlp.1015/) 📒[Code](https://github.com/ikergarcia1996/T-Projection)  
 
 ---
 
 ### NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark
 Oscar Sainz, Jon Ander Campos, <ins>Iker García-Ferrero</ins> , Julen Etxaniz, Oier Lopez de Lacalle, Eneko Agirre  
 Findings of the EMNLP 2023    
-📖[Paper](https://arxiv.org/pdf/2310.18018v1.pdf) 📒[Code](https://hitz-zentroa.github.io/lm-contamination/)  
+📖[Paper](https://aclanthology.org/2023.findings-emnlp.722/) 📒[Code](https://hitz-zentroa.github.io/lm-contamination/)  
 
 ---
 
@@ -46,7 +46,7 @@ SemEval 2023
 ### HiTZ@ Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine
 Rodrigo Agerri, Iñigo Alonso, Aitziber Atutxa, Ander Berrondo, Ainara Estarrona, <ins>Iker García-Ferrero</ins>, Iakes Goenaga, Koldo Gojenola, Maite Oronoz, Igor Perez-Tejedor, German Rigau, Anar Yeginbergenova  
 SEPLN 2023: 39th International Conference of the Spanish Society for Natural Language Processing  
-📖[Paper](https://arxiv.org/abs/2306.06029)
+📖[Paper](https://ceur-ws.org/Vol-3516/paper14.pdf)
 
 
 ---
@@ -71,3 +71,19 @@ ArXiv 2020
 📖[Paper](https://arxiv.org/abs/2001.06381) 📒[Code](https://github.com/ikergarcia1996/MVM-Embeddings)
 
 ---
+<br>
+<br>
+<br>
+
+# Publications in Basque
+
+---
+### Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua
+Ander Salaberria, Jon Ander Campos,<ins>Iker García-Ferrero</ins>, Joseba Fernandez de Landa   
+IkerGazte 2021  
+📖[Paper](http://www.ixa.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf)
+---
+### Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian
+Joseba Fernandez de Landa,,<ins>Iker García-Ferrero</ins>, Ander Salaberria, Jon Ander Campos   
+IkerGazte 2021  
+📖[Paper](http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf)📒[Code](https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021)
