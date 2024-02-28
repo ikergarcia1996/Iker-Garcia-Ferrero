@@ -9,6 +9,19 @@ filename: software
 
 <table >
   <tr>
+    <td style="width:30%"> <img src="https://huggingface.co/spaces/Iker/ClickbaitFighter/resolve/main/logo2.png" width="200" alt="Location">  </td>
+    <td style="width:70%"><b>Clickbait Fighter</b> <br> An AI that generates one-sentence summaries of sensational and clickbait news articles, which is used daily by Spanish users. I crafted the training dataset by hand. I trained the model on 8 A100 GPUs, and the demo runs on the OmegaAI cloud, utilizing vLLM and Ray. 
+    User feedback is used to continuously improve the model.<br>
+    <ul>
+      <li> <a href="https://iker-clickbaitfighter.hf.space/">Link to the app</a></li>
+</ul>
+</td> 
+</tr>
+</table>
+
+
+<table >
+  <tr>
     <td style="width:30%"> <img src="https://github.com/hitz-zentroa/GoLLIE/raw/main/assets/GoLLIE.png" width="200" alt="Location">  </td>
     <td style="width:70%"><b>GoLLIE</b> <br> We present GoLLIE, a Large Language Model trained to follow annotation guidelines. GoLLIE outperforms previous approaches on zero-shot Information Extraction and allows the user to perform inferences with annotation schemas defined on the fly. Different from previous approaches, GoLLIE is able to follow detailed definitions and does not only rely on the knowledge already encoded in the LLM.<br>
     <ul>

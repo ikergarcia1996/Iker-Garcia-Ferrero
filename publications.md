@@ -8,9 +8,16 @@ filename: publications
 # Publications
 
 ---
+
+### MedicalMT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain  
+<ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Aitziber Atutxa Salazar, Elena Cabrio, Iker de la Iglesia, Alberto Lavelli, Bernardo Magnini, Benjamin Molinet, Johana Ramirez-Romero, German Rigau, Jose Maria Villa-Gonzalez, Serena Villata and Andrea Zaninello  
+LREC-COLING 2024  
+📖[Paper]() 📒[Code](https://huggingface.co/collections/HiTZ/medical-mt5-65413b334cb81ed6dea67cfe)
+
+---
 ### <img src="https://github.com/hitz-zentroa/GoLLIE/blob/main/assets/GoLLIE.png?raw=true" width="25"> GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction
 Oscar Sainz, <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau and Eneko Agirre  
-ArXiv 2023  
+ICLR 2024
 📖[Paper](https://aclanthology.org/2023.emnlp-main.531/) 📒[Code](https://github.com/hitz-zentroa/GoLLIE/)
 
 ---
