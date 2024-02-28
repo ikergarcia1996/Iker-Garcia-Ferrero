@@ -20,8 +20,6 @@ A workshop on detecting, preventing, and addressing data contamination and fairl
 </tr>
 </table>
 
-<br>
-
 <table >
   <tr>
     <td style="width:30%"> <img src="icons/hardware360.jpeg" width="200" alt="Location">  </td>
@@ -34,8 +32,6 @@ A workshop on detecting, preventing, and addressing data contamination and fairl
 </td> 
 </tr>
 </table>
-
-<br>
 
 <table >
   <tr>

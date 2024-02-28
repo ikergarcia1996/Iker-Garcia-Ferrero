@@ -44,8 +44,6 @@ filename: software
 </tr>
 </table>
 
-<br>
-
 <table >
   <tr>
     <td style="width:30%"> <img src="https://github.com/ikergarcia1996/Sequence-Labeling-LLMs/raw/main/resources/ConstrainedDecoding.gif" width="200" alt="Location">  </td>
@@ -56,8 +54,6 @@ filename: software
 </td> 
 </tr>
 </table>
-
-<br> 
 
 <table >
   <tr>
@@ -70,8 +66,6 @@ filename: software
 </tr>
 </table>
 
-<br> 
-
 <table >
   <tr>
     <td style="width:30%"> <img src="https://github.com/ikergarcia1996/Easy-Translate/raw/main/images/title.png" width="300" alt="Location">  </td>
@@ -83,7 +77,6 @@ filename: software
 </tr>
 </table>
 
-<br> 
 
 <table >
   <tr>
@@ -95,8 +88,6 @@ filename: software
 </td> 
 </tr>
 </table>
-
-<br> 
 
 <table >
   <tr>
@@ -110,8 +101,6 @@ A NER frameworks that (1) identifies possible entity candidates by analyzing the
 </tr>
 </table>
 
-<br> 
-
 <table >
   <tr>
     <td style="width:30%"> <img src="https://www.ruder.io/content/images/size/w2000/2016/04/word_embeddings_colah.png" width="300" alt="Location">  </td>
@@ -122,8 +111,6 @@ A NER frameworks that (1) identifies possible entity candidates by analyzing the
 </td> 
 </tr>
 </table>
-
-<br> 
 
 <table >
   <tr>
