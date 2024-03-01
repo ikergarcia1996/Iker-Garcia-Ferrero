@@ -19,7 +19,6 @@ filename: software
 </tr>
 </table>
 
-
 <table >
   <tr>
     <td style="width:30%"> <img src="https://github.com/hitz-zentroa/GoLLIE/raw/main/assets/GoLLIE.png" width="200" alt="Location">  </td>
@@ -30,8 +29,6 @@ filename: software
 </td> 
 </tr>
 </table>
-
-<br> 
 
 <table >
   <tr>
