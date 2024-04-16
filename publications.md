@@ -8,9 +8,9 @@ filename: publications
 # Publications
 
 ---
-### NoticIA: A Clickbait Article Summarization Dataset in Spanish 
-<ins>Iker García-Ferrero</ins>, Begoña Altuna
-Under review in the journal Procesamiento del Lenguaje Natural
+### NoticIA: A Clickbait Article Summarization Dataset in Spanish   
+<ins>Iker García-Ferrero</ins>, Begoña Altuna  
+Under review in the journal Procesamiento del Lenguaje Natural  
 📖[Paper](https://arxiv.org/abs/2404.07611) 📒[Code](https://huggingface.co/datasets/Iker/NoticIA)
 
 ---
