@@ -8,17 +8,23 @@ filename: publications
 # Publications
 
 ---
+### NoticIA: A Clickbait Article Summarization Dataset in Spanish 
+<ins>Iker García-Ferrero</ins>, Begoña Altuna
+Under review in the journal Procesamiento del Lenguaje Natural
+📖[Paper](https://arxiv.org/abs/2404.07611) 📒[Code](https://huggingface.co/datasets/Iker/NoticIA)
+
+---
 
 ### MedicalMT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain  
 <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Aitziber Atutxa Salazar, Elena Cabrio, Iker de la Iglesia, Alberto Lavelli, Bernardo Magnini, Benjamin Molinet, Johana Ramirez-Romero, German Rigau, Jose Maria Villa-Gonzalez, Serena Villata and Andrea Zaninello  
 LREC-COLING 2024  
-📖[Paper]() 📒[Code](https://huggingface.co/collections/HiTZ/medical-mt5-65413b334cb81ed6dea67cfe)
+📖[Paper](https://huggingface.co/papers/2404.07613) 📒[Code](https://huggingface.co/collections/HiTZ/antidote-project-6601973d7d7b55302c1e606d)
 
 ---
 ### <img src="https://github.com/hitz-zentroa/GoLLIE/blob/main/assets/GoLLIE.png?raw=true" width="25"> GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction
 Oscar Sainz, <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau and Eneko Agirre  
 ICLR 2024
-📖[Paper](https://aclanthology.org/2023.emnlp-main.531/) 📒[Code](https://github.com/hitz-zentroa/GoLLIE/)
+📖[Paper](https://openreview.net/forum?id=Y3wpuxd7u9) 📒[Code](https://github.com/hitz-zentroa/GoLLIE/)
 
 ---
 

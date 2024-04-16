@@ -6,6 +6,16 @@ filename: software
 ---
 
 # Software
+<table >
+  <tr>
+    <td style="width:30%"> <img src="https://github.com/ikergarcia1996/NoticIA/blob/main/assets/logo.png?raw=true" width="200" alt="Location">  </td>
+    <td style="width:70%"><b>NoticIA</b> <br> A LLM finetuning and LLM evaluation library for the NoticIA dataset. The dataset consisting of 850 Spanish news articles featuring prominent clickbait headlines, each paired with high-quality, single-sentence generative summarizations written by humans. <br>
+    <ul>
+      <li> <a href="https://github.com/ikergarcia1996/NoticIA">GitHub Repository</a></li>
+</ul>
+</td> 
+</tr>
+</table>
 
 <table >
   <tr>
