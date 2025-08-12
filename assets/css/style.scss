@@ -46,6 +46,13 @@ body {
   border-bottom-right-radius: 16px;
   box-shadow: 0 10px 30px rgba(2, 24, 43, 0.25);
   overflow: hidden; // contain decorative overlays
+  /* initial positions for interactive overlay */
+  --g1x: 10%;
+  --g1y: 20%;
+  --g2x: 85%;
+  --g2y: 15%;
+  --g3x: 50%;
+  --g3y: 85%;
 }
 
 .page-header .btn {
@@ -238,25 +245,36 @@ body {
   z-index: 1;
 }
 
-// Animated aurora-like overlay for subtle motion
+// Animated aurora-like overlay for subtle motion (also interactive via CSS vars)
 .page-header::after {
   content: "";
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(60% 80% at 10% 20%, rgba(255, 255, 255, 0.07), transparent 60%),
-    radial-gradient(50% 70% at 85% 15%, rgba(255, 255, 255, 0.05), transparent 60%),
-    radial-gradient(40% 60% at 50% 85%, rgba(255, 255, 255, 0.06), transparent 65%);
+    radial-gradient(60% 80% at var(--g1x) var(--g1y), rgba(255, 255, 255, 0.07), transparent 60%),
+    radial-gradient(50% 70% at var(--g2x) var(--g2y), rgba(255, 255, 255, 0.05), transparent 60%),
+    radial-gradient(40% 60% at var(--g3x) var(--g3y), rgba(255, 255, 255, 0.06), transparent 65%);
   background-size: 200% 200%;
   mix-blend-mode: overlay;
-  animation: auroraShift 18s ease-in-out infinite alternate;
+  animation: auroraDrift 26s ease-in-out infinite alternate;
   pointer-events: none;
 }
 
-@keyframes auroraShift {
+@keyframes auroraDrift {
   0% { background-position: 0% 0%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 100%; }
+}
+
+// Disable the drift while interacting (JS toggles this class)
+.page-header.is-interactive::after {
+  animation: none;
+}
+
+// Click pulse feedback
+.page-header.header--pulse::after {
+  filter: brightness(1.12) saturate(1.08);
+  transition: filter 600ms ease;
 }
 
 // Animated gradient title for a gentle shimmer

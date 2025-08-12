@@ -33,5 +33,62 @@
 
     </main>
 
+    <script>
+      (function(){
+        const header = document.querySelector('.page-header');
+        if (!header) return;
+        let raf = null;
+        let target = {x: 0.1, y: 0.2};
+        let current = {x: 0.1, y: 0.2};
+        let interacting = false;
+
+        function lerp(a, b, t) { return a + (b - a) * t; }
+
+        function onMove(e){
+          const rect = header.getBoundingClientRect();
+          const px = (e.clientX - rect.left) / rect.width;
+          const py = (e.clientY - rect.top) / rect.height;
+          target.x = Math.max(0.02, Math.min(0.98, px));
+          target.y = Math.max(0.02, Math.min(0.98, py));
+          if (!interacting){
+            interacting = true;
+            header.classList.add('is-interactive');
+          }
+          if (!raf) raf = requestAnimationFrame(tick);
+        }
+
+        function tick(){
+          raf = null;
+          current.x = lerp(current.x, target.x, 0.08);
+          current.y = lerp(current.y, target.y, 0.08);
+          const g1x = (current.x * 100).toFixed(2) + '%';
+          const g1y = (current.y * 100).toFixed(2) + '%';
+          const g2x = (100 - current.x * 100).toFixed(2) + '%';
+          const g2y = (current.y * 100 * 0.7 + 10).toFixed(2) + '%';
+          const g3x = (50 + (current.x - 0.5) * 20).toFixed(2) + '%';
+          const g3y = (80 + (current.y - 0.5) * 20).toFixed(2) + '%';
+          header.style.setProperty('--g1x', g1x);
+          header.style.setProperty('--g1y', g1y);
+          header.style.setProperty('--g2x', g2x);
+          header.style.setProperty('--g2y', g2y);
+          header.style.setProperty('--g3x', g3x);
+          header.style.setProperty('--g3y', g3y);
+        }
+
+        header.addEventListener('pointermove', onMove, { passive: true });
+        header.addEventListener('pointerleave', () => {
+          interacting = false;
+          header.classList.remove('is-interactive');
+        });
+        header.addEventListener('click', () => {
+          header.classList.add('header--pulse');
+          setTimeout(() => header.classList.remove('header--pulse'), 220);
+        });
+
+        // Respect reduced motion
+        const media = window.matchMedia('(prefers-reduced-motion: reduce)');
+        if (media.matches) return; // skip interactivity
+      })();
+    </script>
   </body>
 </html>
