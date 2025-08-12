@@ -55,6 +55,22 @@ body {
   --g3y: 85%;
 }
 
+// Color gradient layer with slow hue rotation for visible movement
+.page-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(120deg, rgba(14,111,131,0.55), rgba(11,61,145,0.55));
+  mix-blend-mode: screen;
+  animation: headerHue 60s linear infinite;
+  pointer-events: none;
+}
+
+@keyframes headerHue {
+  from { filter: hue-rotate(0deg); }
+  to { filter: hue-rotate(360deg); }
+}
+
 .page-header .btn {
   background: rgba(255, 255, 255, 0.16);
   border-color: rgba(255, 255, 255, 0.28);
@@ -251,9 +267,9 @@ body {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(60% 80% at var(--g1x) var(--g1y), rgba(255, 255, 255, 0.07), transparent 60%),
-    radial-gradient(50% 70% at var(--g2x) var(--g2y), rgba(255, 255, 255, 0.05), transparent 60%),
-    radial-gradient(40% 60% at var(--g3x) var(--g3y), rgba(255, 255, 255, 0.06), transparent 65%);
+    radial-gradient(60% 80% at var(--g1x) var(--g1y), rgba(255, 255, 255, 0.10), transparent 60%),
+    radial-gradient(50% 70% at var(--g2x) var(--g2y), rgba(255, 255, 255, 0.08), transparent 60%),
+    radial-gradient(40% 60% at var(--g3x) var(--g3y), rgba(255, 255, 255, 0.10), transparent 65%);
   background-size: 200% 200%;
   mix-blend-mode: overlay;
   animation: auroraDrift 26s ease-in-out infinite alternate;
@@ -313,6 +329,7 @@ body {
 // Respect reduced-motion preferences
 @media (prefers-reduced-motion: reduce) {
   .page-header::after,
+  .page-header::before,
   .project-name,
   .page-header nav,
   .page-header .project-name {

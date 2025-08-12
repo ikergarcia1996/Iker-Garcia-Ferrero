@@ -37,10 +37,11 @@
       (function(){
         const header = document.querySelector('.page-header');
         if (!header) return;
-        let raf = null;
         let target = {x: 0.1, y: 0.2};
         let current = {x: 0.1, y: 0.2};
         let interacting = false;
+        let lastMove = 0;
+        const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
         function lerp(a, b, t) { return a + (b - a) * t; }
 
@@ -50,17 +51,31 @@
           const py = (e.clientY - rect.top) / rect.height;
           target.x = Math.max(0.02, Math.min(0.98, px));
           target.y = Math.max(0.02, Math.min(0.98, py));
-          if (!interacting){
-            interacting = true;
-            header.classList.add('is-interactive');
-          }
-          if (!raf) raf = requestAnimationFrame(tick);
+          interacting = true;
+          lastMove = performance.now();
+          header.classList.add('is-interactive');
         }
 
-        function tick(){
-          raf = null;
-          current.x = lerp(current.x, target.x, 0.08);
-          current.y = lerp(current.y, target.y, 0.08);
+        function tick(now){
+          // Autonomous drift (disabled if reduced-motion)
+          if (!interacting){
+            const t = now * 0.00006; // slow time base
+            const ampX = reduceMotion ? 0.015 : 0.05;
+            const ampY = reduceMotion ? 0.012 : 0.04;
+            const bx = 0.12 + ampX * Math.sin(t * 2.0);
+            const by = 0.22 + ampY * Math.cos(t * 1.4);
+            target.x = bx;
+            target.y = by;
+          }
+
+          // If user stopped moving for a while, fall back to drift
+          if (interacting && now - lastMove > 1200){
+            interacting = false;
+            header.classList.remove('is-interactive');
+          }
+
+          current.x = lerp(current.x, target.x, 0.06);
+          current.y = lerp(current.y, target.y, 0.06);
           const g1x = (current.x * 100).toFixed(2) + '%';
           const g1y = (current.y * 100).toFixed(2) + '%';
           const g2x = (100 - current.x * 100).toFixed(2) + '%';
@@ -73,6 +88,8 @@
           header.style.setProperty('--g2y', g2y);
           header.style.setProperty('--g3x', g3x);
           header.style.setProperty('--g3y', g3y);
+
+          requestAnimationFrame(tick);
         }
 
         header.addEventListener('pointermove', onMove, { passive: true });
@@ -85,9 +102,8 @@
           setTimeout(() => header.classList.remove('header--pulse'), 220);
         });
 
-        // Respect reduced motion
-        const media = window.matchMedia('(prefers-reduced-motion: reduce)');
-        if (media.matches) return; // skip interactivity
+        // Start loop (always)
+        requestAnimationFrame(tick);
       })();
     </script>
   </body>
