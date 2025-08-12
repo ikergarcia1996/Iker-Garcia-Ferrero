@@ -13,10 +13,11 @@
 
   </div>
   <div class="stack">
-    <img class="avatar" src="images/Iker.jpeg" alt="Iker García-Ferrero portrait">
+    <img class="avatar" src="images/Iker-box.jpg" alt="Iker García-Ferrero portrait">
     <div class="badges">
-      <a href="http://www.hitz.eus/"><img class="badge-icon" src="icons/Hitz.png" alt="HiTZ"></a>
+      <a href="http://www.hitz.eus/"><img class="badge-icon" src="icons/hitz_zentroa_logo.jpeg" alt="HiTZ"></a>
       <a href="https://www.krea.ai"><img class="badge-icon" src="icons/Krea.png" alt="Krea.ai"></a>
+      <a href="https://veridika.ai"><img class="badge-icon" src="https://veridika.ai/logo.webp" alt=Veridika.ai"></a>
       <a href="https://multiversecomputing.com"><img class="badge-icon" src="icons/multiverse.png" alt="Multiverse Computing"></a>
     </div>
     <div class="badges">
