@@ -1,6 +1,6 @@
 ---
 ---
-// Override Cayman theme variables first (they use !default in the theme)
+/* Override Cayman theme variables first (they use !default in the theme) */
 $large-breakpoint: 72em;
 $medium-breakpoint: 48em;
 
@@ -45,6 +45,7 @@ body {
   border-bottom-left-radius: 16px;
   border-bottom-right-radius: 16px;
   box-shadow: 0 10px 30px rgba(2, 24, 43, 0.25);
+  overflow: hidden; // contain decorative overlays
 }
 
 .page-header .btn {
@@ -150,12 +151,14 @@ body {
 }
 .clamp-2 {
   display: -webkit-box;
+  line-clamp: 2;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 .clamp-3 {
   display: -webkit-box;
+  line-clamp: 3;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
@@ -226,6 +229,77 @@ body {
 .site-footer {
   border-top: 1px solid $border-color;
   color: #6b7280;
+}
+
+// --- Header visual enhancements ---
+// Keep header content above decorative overlays
+.page-header > * {
+  position: relative;
+  z-index: 1;
+}
+
+// Animated aurora-like overlay for subtle motion
+.page-header::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(60% 80% at 10% 20%, rgba(255, 255, 255, 0.07), transparent 60%),
+    radial-gradient(50% 70% at 85% 15%, rgba(255, 255, 255, 0.05), transparent 60%),
+    radial-gradient(40% 60% at 50% 85%, rgba(255, 255, 255, 0.06), transparent 65%);
+  background-size: 200% 200%;
+  mix-blend-mode: overlay;
+  animation: auroraShift 18s ease-in-out infinite alternate;
+  pointer-events: none;
+}
+
+@keyframes auroraShift {
+  0% { background-position: 0% 0%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 100%; }
+}
+
+// Animated gradient title for a gentle shimmer
+.project-name {
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(232,246,255,1) 40%, rgba(255,255,255,1) 80%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+  background-size: 200% 100%;
+  animation: titleShine 8s ease-in-out infinite;
+}
+
+@keyframes titleShine {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+// Slightly livelier nav chips on hover
+.page-header .btn:hover {
+  background: rgba(255, 255, 255, 0.22);
+  border-color: rgba(255, 255, 255, 0.45);
+}
+
+// Subtle entrance animation for header elements
+.page-header nav, .page-header .project-name {
+  animation: fadeUp 600ms ease both;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+// Respect reduced-motion preferences
+@media (prefers-reduced-motion: reduce) {
+  .page-header::after,
+  .project-name,
+  .page-header nav,
+  .page-header .project-name {
+    animation: none !important;
+  }
 }
 
 
