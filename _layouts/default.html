@@ -17,10 +17,14 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <a href="https://ikergarcia1996.github.io/Iker-Garcia-Ferrero/" class="btn">About Me</a>
-      {% for page in site.pages %}
-        <a href= {{ page.filename }} class="btn">{{ page.button_title }}</a>
-      {% endfor %}
+      <nav aria-label="Primary">
+        <a href="{{ '/' | relative_url }}" class="btn">About Me</a>
+        {% for page in site.pages %}
+          {% if page.button_title and page.filename %}
+            <a href="{{ page.filename | relative_url }}" class="btn">{{ page.button_title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
     </header>
     <main id="content" class="main-content" role="main">
       {{ content }}

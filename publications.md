@@ -9,6 +9,8 @@ filename: publications
 
 ---
 
+<div class="stack">
+
 ### FLUX.1 Krea
 Sangwu Lee, Titus Ebbecke, Erwann Millon, Will Beddow, Le Zhuo, <ins>Iker García-Ferrero</ins>, Liam Esparraguera, Mihai Petrescu, Gian Saß, Gabriel Menezes, Victor Perez  
 Krea Blog 2025  
@@ -132,6 +134,7 @@ ArXiv 2020
 <br>
 <br>
 
+</div>
 # Publications in Basque
 
 ---
@@ -144,3 +147,4 @@ IkerGazte 2021
 Joseba Fernandez de Landa,,<ins>Iker García-Ferrero</ins>, Ander Salaberria, Jon Ander Campos   
 IkerGazte 2021  
 📖[Paper](http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf)📒[Code](https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021)
+ 

@@ -9,30 +9,35 @@ filename: blog
 
 ---
 
-<h2><img src="icons/Krea.png" width="25"> Releasing Open Weights for FLUX.1 Krea</h2>
-Sangwu Lee, Titus Ebbecke, Erwann Millon, Will Beddow, Le Zhuo, <ins>Iker García-Ferrero</ins>, Liam Esparraguera, Mihai Petrescu, Gian Saß, Gabriel Menezes, Victor Perez  
+<div class="grid">
+  <article class="card">
+    <img class="card-img" src="icons/Krea.png" alt="Krea">
+    <div class="card-content">
+      <h3 class="card-title">Releasing Open Weights for FLUX.1 Krea</h3>
+      <p class="meta">Sangwu Lee, Titus Ebbecke, Erwann Millon, Will Beddow, Le Zhuo, <ins>Iker García-Ferrero</ins>, Liam Esparraguera, Mihai Petrescu, Gian Saß, Gabriel Menezes, Victor Perez</p>
+      <p><strong>TL;DR</strong>: Today, we're releasing an open version of Krea 1, our first image model trained in collaboration with Black Forest Labs to offer superior aesthetic control and image quality. This checkpoint is fully compatible with FLUX.1-dev.</p>
+      <p>📒 <a href="https://www.krea.ai/blog/flux-krea-open-source-release">Blog Post</a></p>
+    </div>
+  </article>
 
->**TL;DR**: Today, we're releasing an open version of Krea 1, our first image model trained in collaboration with Black Forest Labs  to offer superior aesthetic control and image quality. This checkpoint is a guidance distilled model fully compatible with FLUX.1-dev  allowing seamless integration with the existing ecosystem. FLUX.1-Krea [dev] has been distilled to match the quality of Krea 1 with a focus on preserving aesthetics and photorealism.
+  <article class="card">
+    <img class="card-img" src="https://github.com/hitz-zentroa/GoLLIE/blob/main/assets/GoLLIE.png?raw=true" alt="GoLLIE">
+    <div class="card-content">
+      <h3 class="card-title">GoLLIE: Guideline-following Large Language Model for Information Extraction</h3>
+      <p class="meta">Oscar Sainz, <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau and Eneko Agirre</p>
+      <p><strong>TL;DR</strong>: We present GoLLIE, a Large Language Model trained to follow annotation guidelines. It outperforms previous approaches on zero-shot IE and supports schemas defined on the fly.</p>
+      <p>📒 <a href="https://hitz-zentroa.github.io/GoLLIE/">Blog Post</a></p>
+    </div>
+  </article>
 
-📒[Blog Post](https://www.krea.ai/blog/flux-krea-open-source-release) 
+  <article class="card">
+    <img class="card-img" src="icons/X.png" alt="ChatGPT contamination">
+    <div class="card-content">
+      <h3 class="card-title">Did ChatGPT cheat on your test? (2023)</h3>
+      <p class="meta">Oscar Sainz, Jon Ander Campos, <ins>Iker García-Ferrero</ins>, Julen Etxaniz, Eneko Agirre</p>
+      <p><strong>TL;DR</strong>: We show popular benchmark datasets are already memorized by ChatGPT and that one can prompt ChatGPT to regenerate them.</p>
+      <p>📒 <a href="https://hitz-zentroa.github.io/lm-contamination/blog/">Blog Post</a></p>
+    </div>
+  </article>
+</div>
 
----
-
-<h2><img src="https://github.com/hitz-zentroa/GoLLIE/blob/main/assets/GoLLIE.png?raw=true" width="25"> GoLLIE: Guideline-following Large Language Model for Information Extraction</h2>
-Oscar Sainz, <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau and Eneko Agirre
-
->**TL;DR**: We present GoLLIE, a Large Language Model trained to follow annotation guidelines. GoLLIE outperforms previous approaches on zero-shot Information Extraction and allows the user to perform inferences with annotation schemas defined on the fly. Different from previous approaches, GoLLIE is able to follow detailed definitions and does not only rely on the knowledge already encoded in the LLM.
-
-📒[Blog Post](https://hitz-zentroa.github.io/GoLLIE/) 
-
----
-
-
-## Did ChatGPT cheat on your test? (2023)
-Oscar Sainz, Jon Ander Campos, <ins>Iker García-Ferrero</ins>, Julen Etxaniz, Eneko Agirre  
-
->**TL;DR**: Large Language Models have seen trillions of tokens. However, who knows what is inside? Recent works have evaluated those models in many different tasks, but, did they make sure the model had not already seen the training or even the evaluation datasets? In this blog post, we show that some popular benchmark datasets are already memorized by ChatGPT and that one can prompt ChatGPT to regenerate them.
-
-📒[Blog Post](https://hitz-zentroa.github.io/lm-contamination/blog/) 
-
----
