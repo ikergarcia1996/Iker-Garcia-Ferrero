@@ -4,7 +4,7 @@
     <td style="width:50%"> PHD in Natural Language Processing by the University of the Basque Country<br> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/location.png" width="18" height="20" alt="Location"> Donostia-San Sebastián</a>  <br> <a href="mailto:igarciaf896@gmail.com"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/mail.png" width="18" height="18" alt="Location">igarciaf896@gmail.com</a>  <br> 
     <a href="http://www.hitz.eus/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/Hitz.png" height="50" alt="HiTZ Basque Center for Language Technologies">  </a> 
     <a href="https://www.krea.ai"> <img src="icons/Krea.png" height="50" alt="Krea.ai">  </a> 
-      <a href="https://multiversecomputing.com"> <img src="icons/multiverse.png" height="50" alt="Multiverse Computing">  </a> 
+      <a href="https://multiversecomputing.com"> <img src="icons/multiverse.png" height="50" alt="Multiverse Computing">  
     </td>
     <td style="width:50%"><img src="images/Iker.jpeg" align="center" width="100%"> </td>
   </tr>
