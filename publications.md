@@ -10,7 +10,7 @@ filename: publications
 <div class="grid">
   <div class="card card-vertical">
     <div class="card-content">
-      <h3 class="card-title">FLUX.1 Krea</h3>
+      <h3 class="card-title">Releasing Open Weights for FLUX.1 Krea</h3>
       <p class="meta">Krea Blog · 2025</p>
       <p class="clamp-3">Sangwu Lee, Titus Ebbecke, Erwann Millon, Will Beddow, Le Zhuo, <ins>Iker García-Ferrero</ins>, Liam Esparraguera, Mihai Petrescu, Gian Saß, Gabriel Menezes, Victor Perez.</p>
       <p>📖 <a href="https://www.krea.ai/blog/flux-krea-open-source-release">Blog</a> · 📒 <a href="https://huggingface.co/black-forest-labs/FLUX.1-Krea-dev">Model</a></p>
