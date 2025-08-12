@@ -184,6 +184,11 @@ body {
   }
 }
 
+// Make the meta line span across both columns in the hero grid
+.hero > .meta {
+  grid-column: 1 / -1;
+}
+
 .avatar {
   width: 100%;
   max-width: 320px;

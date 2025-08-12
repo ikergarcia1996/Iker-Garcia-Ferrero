@@ -31,7 +31,7 @@ filename: blog
   </article>
 
   <article class="card">
-    <img class="card-img" src="icons/X.png" alt="ChatGPT contamination">
+    <img class="card-img" src="icons/ChatGPT.svg" alt="ChatGPT contamination">
     <div class="card-content">
       <h3 class="card-title">Did ChatGPT cheat on your test? (2023)</h3>
       <p class="meta">Oscar Sainz, Jon Ander Campos, <ins>Iker García-Ferrero</ins>, Julen Etxaniz, Eneko Agirre</p>
