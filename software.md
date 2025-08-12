@@ -6,6 +6,18 @@ filename: software
 ---
 
 # Software
+
+<table >
+  <tr>
+    <td style="width:30%"> <img src="https://veridika.ai/logo.webp" width="200" alt="Location">  </td>
+    <td style="width:70%"><b>Veridika.ai</b> <br> An AI agent framework for real-time fact-checking. <br>
+    <ul>
+      <li> <a href="https://veridika.ai/">Website</a></li>
+</ul>
+</td> 
+</tr>
+</table>
+
 <table >
   <tr>
     <td style="width:30%"> <img src="https://github.com/ikergarcia1996/NoticIA/blob/main/assets/logo.png?raw=true" width="200" alt="Location">  </td>

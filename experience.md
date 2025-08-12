@@ -9,6 +9,23 @@ filename: experience
 
 <table >
   <tr>
+    <td style="width:13%"> <img src="icons/multiverse.png" width="90" alt="Location">  </td>
+    <td style="width:70%"><b>LLM Researcher</b> <br> Jul. 2025 - present <br> Multiverse Computing <br>
+</td> 
+  </tr>
+ </table>
+
+<table >
+  <tr>
+    <td style="width:13%"> <img src="icons/Krea.png" width="90" alt="Location">  </td>
+    <td style="width:70%"><b>Machine Learning Researcher</b> <br> Jan. 2025 - Jul. 2025 <br> Krea.ai <br>
+</td> 
+  </tr>
+ </table>
+
+
+<table >
+  <tr>
     <td style="width:13%"> <img src="icons/university_of_pennsylvania_logo.jpeg" width="90" alt="Location">  </td>
     <td style="width:70%"><b>Visiting PhD Student</b> <br> Oct. 2022 - Jan. 2023 <br> University of Pennsylvania <br>
     <ul>
@@ -23,7 +40,7 @@ filename: experience
 <table >
   <tr>
     <td style="width:13%"> <img src="icons/hitz_zentroa_logo.jpeg" width="90" alt="Location">  </td>
-    <td style="width:70%"><b>PhD Student</b> <br> 2020 - 2024 <br> HiTZ Zentroa <br>
+    <td style="width:70%"><b>PhD in Natural Language Processing</b> <br> 2020 - 2024 <br> HiTZ Zentroa <br>
     <ul>
       <li> <b>Advisors:</b> German Rigau, Rodrigo Agerri </li>
 <li> <b>Research:</b> Multilingual Natural Language Processing </li>

@@ -2,28 +2,65 @@
 title: Iker García-Ferrero
 button_title: Publications
 layout: default
-filename: publications
+filename: publicationºs
 ---
 
 # Publications
 
 ---
+
+### FLUX.1 Krea
+Sangwu Lee, Titus Ebbecke, Erwann Millon, Will Beddow, Le Zhuo, <ins>Iker García-Ferrero</ins>, Liam Esparraguera, Mihai Petrescu, Gian Saß, Gabriel Menezes, Victor Perez  
+Krea Blog 2025  
+📖[Blog](https://www.krea.ai/blog/flux-krea-open-source-release) 📒[Model](https://huggingface.co/black-forest-labs/FLUX.1-Krea-dev)
+
+---
+
+### Instructing Large Language Models for Low-Resource Languages: A Systematic Study for Basque
+Oscar Sainz, Naiara Perez, Julen Etxaniz, Joseba Fernandez de Landa, Itziar Aldabe, <ins>Iker García-Ferrero</ins>, Aimar Zabala, Ekhi Azurmendi, German Rigau, Eneko Agirre, Mikel Artetxe, Aitor Soroa  
+ArXiv 2025  
+📖[Paper](https://arxiv.org/abs/2506.07597) 📒[Model](https://huggingface.co/collections/HiTZ/latxa-instruct-682f356091452b0028380804)
+
+---
+
+### GuideX: Guided Synthetic Data Generation for Zero-Shot Information Extraction
+Neil De La Fuente, Oscar Sainz, <ins>Iker García-Ferrero</ins>, Eneko Agirre  
+Findings of the ACL 2025  
+📖[Paper](https://aclanthology.org/2025.findings-acl.1245/) 📒[Code](https://github.com/Neilus03/GUIDEX)
+
+---
+
+
+### Data Contamination Report from the 2024 CONDA Shared Task - CONDA 2024
+Oscar Sainz, <ins>Iker García-Ferrero</ins>, Alon Jacovi, Jon Ander Campos, Yanai Elazar, Eneko Agirre, Yoav Goldberg  
+CONDA 2024: 1st Workshop on Data Contamination  
+📖[Paper](https://aclanthology.org/2024.conda-1.4/)
+
+---
+
+### Uncovering social changes of the Basque speaking Twitter community during COVID-19 pandemic
+Joseba Fernandez de Landa, <ins>Iker García-Ferrero</ins>, Ander Salaberria, Jon Ander Campos  
+SIGUL 2024: 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages  
+📖[Paper](https://aclanthology.org/2024.sigul-1.44/)
+
+---
+
 ### NoticIA: A Clickbait Article Summarization Dataset in Spanish   
 <ins>Iker García-Ferrero</ins>, Begoña Altuna  
-Under review in the journal Procesamiento del Lenguaje Natural  
-📖[Paper](https://arxiv.org/abs/2404.07611) 📒[Code](https://huggingface.co/datasets/Iker/NoticIA)
+Procesamiento del Lenguaje Natural; Vol. 73 (2024)   
+📖[Paper](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6610) 📒[Code](https://huggingface.co/datasets/Iker/NoticIA)
 
 ---
 
 ### MedicalMT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain  
 <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Aitziber Atutxa Salazar, Elena Cabrio, Iker de la Iglesia, Alberto Lavelli, Bernardo Magnini, Benjamin Molinet, Johana Ramirez-Romero, German Rigau, Jose Maria Villa-Gonzalez, Serena Villata and Andrea Zaninello  
 LREC-COLING 2024  
-📖[Paper](https://huggingface.co/papers/2404.07613) 📒[Code](https://huggingface.co/collections/HiTZ/antidote-project-6601973d7d7b55302c1e606d)
+📖[Paper](https://aclanthology.org/2024.lrec-main.974/) 📒[Code](https://huggingface.co/collections/HiTZ/antidote-project-6601973d7d7b55302c1e606d)
 
 ---
 ### <img src="https://github.com/hitz-zentroa/GoLLIE/blob/main/assets/GoLLIE.png?raw=true" width="25"> GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction
 Oscar Sainz, <ins>Iker García-Ferrero</ins>, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau and Eneko Agirre  
-ICLR 2024
+ICLR 2024  
 📖[Paper](https://openreview.net/forum?id=Y3wpuxd7u9) 📒[Code](https://github.com/hitz-zentroa/GoLLIE/)
 
 ---
@@ -31,7 +68,7 @@ ICLR 2024
 ### This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models
 <ins>Iker García-Ferrero</ins>, Begoña Altuna, Javier Alvez, Itziar Gonzalez-Dios, German Rigau  
 EMNLP 2023    
-📖[Paper](https://arxiv.org/abs/2310.15941) 📒[Code](https://github.com/hitz-zentroa/This-is-not-a-Dataset)
+📖[Paper](https://aclanthology.org/2023.emnlp-main.531) 📒[Code](https://github.com/hitz-zentroa/This-is-not-a-Dataset)
 
 ---
 
@@ -61,6 +98,13 @@ Rodrigo Agerri, Iñigo Alonso, Aitziber Atutxa, Ander Berrondo, Ainara Estarrona
 SEPLN 2023: 39th International Conference of the Spanish Society for Natural Language Processing  
 📖[Paper](https://ceur-ws.org/Vol-3516/paper14.pdf)
 
+
+---
+
+### Acquisition and Exploitation of Cross-Lingual Knowledge 
+<ins>Iker García-Ferrero</ins>  
+CEUR Workshop 2022  
+📖[Paper](https://ceur-ws.org/Vol-3270/paper3.pdf)
 
 ---
 
