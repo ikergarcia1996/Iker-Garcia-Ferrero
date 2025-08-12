@@ -2,7 +2,6 @@
 <section class="hero">
   <div class="stack">
     <p class="meta">Donostia–San Sebastián · <a href="mailto:igarciaf896@gmail.com">igarciaf896@gmail.com</a></p>
-    <h2>About Me</h2>
     <div>
       PhD in Natural Language Processing (NLP) by <a href="https://www.ehu.eus/en/en-home">University of the Basque Country UPV/EHU</a>, <a href="http://www.ixa.eus/?language=en">IXA Group</a>, and <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a>.
       During my time at HiTZ, I specialized in data acquisition, training, and evaluation of Large Language Models (LLMs). Notable contributions include: <a href="https://hitz-zentroa.github.io/GoLLIE/">GoLLIE</a>, a 34B-parameter LLM achieving state-of-the-art results in zero-shot Information Extraction; <a href="https://huggingface.co/HiTZ/Medical-mT5-xl">MedMT5</a>, the first open-source multilingual text-to-text model for the medical domain; and <a href="https://arxiv.org/abs/2506.07597">Latxa</a>, a Basque instruction-tuned model trained on the <a href="https://leonardo-supercomputer.cineca.eu/hpc-system/">Leonardo Supercomputer</a> using up to 512 GPUs and 128 nodes, delivering performance comparable to GPT-4o and Claude Sonnet.
@@ -12,13 +11,14 @@
       In my free time, I develop <a href="https://veridika.ai">veridika.ai</a>, an AI agent framework for real-time fact-checking.
     </div>
 
+  </div>
+  <div class="stack">
+    <img class="avatar" src="images/Iker.jpeg" alt="Iker García-Ferrero portrait">
     <div class="badges">
       <a href="http://www.hitz.eus/"><img class="badge-icon" src="icons/Hitz.png" alt="HiTZ"></a>
       <a href="https://www.krea.ai"><img class="badge-icon" src="icons/Krea.png" alt="Krea.ai"></a>
       <a href="https://multiversecomputing.com"><img class="badge-icon" src="icons/multiverse.png" alt="Multiverse Computing"></a>
     </div>
-
-    <h3>Social</h3>
     <div class="badges">
       <a href="https://twitter.com/iker_garciaf"><img class="badge-icon" src="icons/X.png" alt="X"></a>
       <a href="https://github.com/ikergarcia1996"><img class="badge-icon" src="icons/github.png" alt="GitHub"></a>
@@ -27,9 +27,6 @@
       <a href="https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884"><img class="badge-icon" src="icons/semantic-scholar.png" alt="Semantic Scholar"></a>
       <a href="https://orcid.org/0000-0001-9612-7134"><img class="badge-icon" src="icons/orcid.png" alt="ORCID"></a>
     </div>
-  </div>
-  <div>
-    <img class="avatar" src="images/Iker.jpeg" alt="Iker García-Ferrero portrait">
   </div>
 </section>
 

@@ -13,7 +13,7 @@ filename: software
     <div class="card-content">
       <h3 class="card-title">Veridika.ai</h3>
       <p>An AI agent framework for real-time fact-checking.</p>
-      <p><a href="https://veridika.ai/">Website</a></p>
+      <p><a href="https://veridika.ai/">Online Demo</a></p>
     </div>
   </div>
 
