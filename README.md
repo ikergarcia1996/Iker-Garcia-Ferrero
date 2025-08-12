@@ -1,7 +1,7 @@
 
 <section class="hero">
   <div class="stack">
-    <p class="meta">Donostia–San Sebastián · <a href="mailto:igarciaf896@gmail.com">igarciaf896@gmail.com</a></p>
+    <p class="meta">Donostia–San Sebastián · Spain · <a href="mailto:igarciaf896@gmail.com">igarciaf896@gmail.com</a></p>
     <div>
       PhD in Natural Language Processing (NLP) by <a href="https://www.ehu.eus/en/en-home">University of the Basque Country UPV/EHU</a>, <a href="http://www.ixa.eus/?language=en">IXA Group</a>, and <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a>.
       During my time at HiTZ, I specialized in data acquisition, training, and evaluation of Large Language Models (LLMs). Notable contributions include: <a href="https://hitz-zentroa.github.io/GoLLIE/">GoLLIE</a>, a 34B-parameter LLM achieving state-of-the-art results in zero-shot Information Extraction; <a href="https://huggingface.co/HiTZ/Medical-mT5-xl">MedMT5</a>, the first open-source multilingual text-to-text model for the medical domain; and <a href="https://arxiv.org/abs/2506.07597">Latxa</a>, a Basque instruction-tuned model trained on the <a href="https://leonardo-supercomputer.cineca.eu/hpc-system/">Leonardo Supercomputer</a> using up to 512 GPUs and 128 nodes, delivering performance comparable to GPT-4o and Claude Sonnet.
