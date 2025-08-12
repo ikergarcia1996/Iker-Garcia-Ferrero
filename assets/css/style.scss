@@ -143,6 +143,31 @@ body {
   margin: 0 0 0.5rem 0;
 }
 
+// Publication helpers
+.meta {
+  color: #64748b;
+  font-size: 0.95rem;
+}
+.clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-title a {
+  color: inherit;
+  text-decoration: none;
+}
+.card-title a:hover {
+  text-decoration: underline;
+}
+
 .meta {
   color: #64748b;
   font-size: 0.95rem;

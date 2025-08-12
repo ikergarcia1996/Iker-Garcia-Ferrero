@@ -7,7 +7,7 @@ filename: dissemination
 
 # Scientific dissemination
 
-New <div class="grid">
+<div class="grid">
   <div class="card">
     <img class="card-img wide" src="https://avatars.githubusercontent.com/u/148342272" alt="CONDA">
     <div class="card-content">
