@@ -17,6 +17,7 @@ filename: publications
     </div>
   </div>
 
+
   <div class="card card-vertical">
     <div class="card-content">
       <h3 class="card-title">Instructing LLMs for Low-Resource Languages: A Systematic Study for Basque</h3>
@@ -32,6 +33,16 @@ filename: publications
       <p class="meta">Findings of ACL · 2025</p>
       <p class="clamp-3">Neil De La Fuente, Oscar Sainz, <ins>Iker García-Ferrero</ins>, Eneko Agirre.</p>
       <p>📖 <a href="https://aclanthology.org/2025.findings-acl.1245/">Paper</a> · 📒 <a href="https://github.com/Neilus03/GUIDEX">Code</a></p>
+    </div>
+  </div>
+
+<div class="grid">
+  <div class="card card-vertical">
+    <div class="card-content">
+      <h3 class="card-title">Cross-Lingual Transfer for Low-Resource Natural Language Processing</h3>
+      <p class="meta">Doctoral thesis · 2025</p>
+      <p class="clamp-3"><ins>Iker García-Ferrero</ins></p>
+      <p>📖 <a href="https://arxiv.org/abs/2502.02722">Thesis</a> · 🖼️ <a href="http://ixa.si.ehu.es/sites/default/files/dokumentuak/14175/Tesi_aurkezpena___Iker_García.pdf">Slides</a></p>
     </div>
   </div>
 
