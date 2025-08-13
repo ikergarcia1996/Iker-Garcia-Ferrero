@@ -21,7 +21,6 @@
       <a href="https://veridika.ai"><img class="badge-icon" src="icons/veridika.png" alt="Veridika.ai"></a>
       <a href="https://multiversecomputing.com"><img class="badge-icon" src="icons/multiverse.png" alt="Multiverse Computing"></a>
     </div>
-    <br>
     <div class="badges">
       <a href="https://twitter.com/iker_garciaf"><img class="badge-icon" src="icons/X.png" alt="X"></a>
       <a href="https://github.com/ikergarcia1996"><img class="badge-icon" src="icons/github.png" alt="GitHub"></a>
