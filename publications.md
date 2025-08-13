@@ -36,7 +36,6 @@ filename: publications
     </div>
   </div>
 
-<div class="grid">
   <div class="card card-vertical">
     <div class="card-content">
       <h3 class="card-title">Cross-Lingual Transfer for Low-Resource Natural Language Processing</h3>
